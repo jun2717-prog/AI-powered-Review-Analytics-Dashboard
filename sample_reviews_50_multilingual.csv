@@ -1,0 +1,51 @@
+text,date,source_language,expected_sentiment
+"Die Einrichtung war einigermaßen einfach, aber nicht die einfachste, die ich je erlebt habe.",2026-01-05,German,Neutral
+Delivery was three weeks late with no explanation.,2026-01-07,English,Negative
+設定はまあまあ簡単でしたが、一番簡単というわけではありませんでした。,2026-01-08,Japanese,Neutral
+The price was great and the quality feels really durable.,2026-01-13,English,Positive
+"Très difficile à utiliser, l'interface est confuse et désordonnée.",2026-01-19,French,Negative
+"Delivery arrived two days early, very impressed with the shipping speed.",2026-01-21,English,Positive
+配送が二日早く届いて、スピードにとても満足しています。,2026-01-22,Japanese,Positive
+"La entrega llegó dos días antes, muy impresionado con la rapidez.",2026-01-28,Spanish,Positive
+品質の割に価格が高すぎると感じました。,2026-02-02,Japanese,Negative
+"Sehr schwer zu bedienen, die Benutzeroberfläche ist verwirrend und unübersichtlich.",2026-02-02,German,Negative
+"Die Lieferung war drei Wochen verspätet, ohne jede Erklärung.",2026-02-04,German,Negative
+使いにくくて、インターフェースが分かりにくいです。,2026-02-05,Japanese,Negative
+"Die Lieferung kam zwei Tage früher an, sehr beeindruckt von der Geschwindigkeit.",2026-02-12,German,Positive
+"Le prix est raisonnable, bien que la qualité soit tout juste moyenne.",2026-02-21,French,Neutral
+Customer service never responded to three separate emails.,2026-02-23,English,Negative
+配送が三週間も遅れて、説明もありませんでした。,2026-02-25,Japanese,Negative
+"It's so easy to use, the setup took less than five minutes.",2026-03-08,English,Positive
+"Extremely difficult to use, the interface is confusing and cluttered.",2026-03-16,English,Negative
+Der Kundenservice hat auf drei verschiedene E-Mails nie geantwortet.,2026-03-24,German,Negative
+"Der Preis ist angemessen, auch wenn die Qualität nur durchschnittlich ist.",2026-03-26,German,Neutral
+"The price is reasonable, though the quality is just average.",2026-03-27,English,Neutral
+Le service client n'a jamais répondu à trois e-mails différents.,2026-04-04,French,Negative
+カスタマーサービスが一時間以内に対応してくれて、問題を解決してくれました。,2026-04-06,Japanese,Positive
+カスタマーサービスからの返信が一度もありませんでした。,2026-04-07,Japanese,Negative
+Le service client a répondu en une heure et a résolu mon problème.,2026-04-08,French,Positive
+とても使いやすくて、設定も数分で終わりました。,2026-04-12,Japanese,Positive
+Customer service responded within an hour and fully solved my issue.,2026-04-12,English,Positive
+El servicio al cliente nunca respondió a tres correos distintos.,2026-04-14,Spanish,Negative
+La entrega llegó con tres semanas de retraso sin ninguna explicación.,2026-04-14,Spanish,Negative
+"Setup was moderately easy, not the simplest I've used.",2026-04-15,English,Neutral
+"Es muy fácil de usar, la configuración tomó menos de cinco minutos.",2026-04-19,Spanish,Positive
+"La configuración fue moderadamente fácil, no la más sencilla que he usado.",2026-04-28,Spanish,Neutral
+Way overpriced for the quality you actually get.,2026-05-01,English,Negative
+"El precio es razonable, aunque la calidad es solo promedio.",2026-05-02,Spanish,Neutral
+価格は妥当ですが、品質は普通くらいです。,2026-05-06,Japanese,Neutral
+"Viel zu teuer für die Qualität, die man tatsächlich bekommt.",2026-05-08,German,Negative
+"Es ist so einfach zu bedienen, die Einrichtung dauerte weniger als fünf Minuten.",2026-05-09,German,Positive
+価格がとても良くて、品質もしっかりしています。,2026-05-22,Japanese,Positive
+"La livraison est arrivée deux jours plus tôt, très impressionné par la rapidité.",2026-05-23,French,Positive
+"La configuration était modérément facile, pas la plus simple que j'aie utilisée.",2026-05-27,French,Neutral
+El servicio al cliente respondió en una hora y resolvió mi problema.,2026-05-28,Spanish,Positive
+"C'est tellement facile à utiliser, la configuration a pris moins de cinq minutes.",2026-06-04,French,Positive
+Beaucoup trop cher pour la qualité que vous obtenez réellement.,2026-06-07,French,Negative
+Der Kundenservice hat innerhalb einer Stunde geantwortet und mein Problem gelöst.,2026-06-14,German,Positive
+Le prix était excellent et la qualité semble très durable.,2026-06-16,French,Positive
+"Muy difícil de usar, la interfaz es confusa y desordenada.",2026-06-21,Spanish,Negative
+Demasiado caro para la calidad que realmente se obtiene.,2026-06-24,Spanish,Negative
+Der Preis war hervorragend und die Qualität wirkt sehr langlebig.,2026-06-27,German,Positive
+El precio fue excelente y la calidad se siente muy duradera.,2026-06-28,Spanish,Positive
+La livraison avait trois semaines de retard sans aucune explication.,2026-06-29,French,Negative
