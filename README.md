@@ -60,22 +60,27 @@ For translation and the Ask AI chat, get a free key at
 export GEMINI_API_KEY=your-key-here
 ```
 
-## Downloaded csv file from the dashboard (Example)
+## Downloaded PDF file with charts and graphs (Example)
 
-*(Add screenshots here, e.g. `![Dashboard](screenshots/dashboard.png)`)*
+[Sample report](sentiment_report.pdf)
 
 ## Known Limitations
 
-I'd rather be upfront about these than let someone find them first:
-
-- Aspect detection uses keyword matching, not a fine-tuned model — it
-  catches direct mentions but can miss indirect phrasing
-- Ask AI runs on Gemini's free tier, which has a daily request limit
-- Translation and the chat need an API key; the core analysis doesn't
-- Ask AI's retrieval is keyword-based, not true semantic search
+- The app spots topics like price or quality by matching keywords, not
+  with a dedicated AI model built for that — so it can miss reviews that
+  hint at something without using the exact words.
+- The "Ask AI" chat runs on a free service that only allows a limited
+  number of questions per day.
+- Translating reviews and using the AI chat both need a free API key;
+  the main review analysis works without one.
+- The AI chat finds relevant reviews by matching words, not by truly
+  understanding meaning — so it can occasionally miss reviews that are
+  related but worded differently.
 
 ## What I'd Improve Next
 
-- Swap keyword-based aspect detection for a fine-tuned classifier
-- Add real semantic search (embeddings) for Ask AI's retrieval
-- Extend beyond English as the primary analysis language
+- Build a proper AI model for detecting review topics, instead of
+  keyword matching.
+- Make the AI chat understand meaning, not just matching words, when
+  finding relevant reviews.
+- Support more languages as the main analysis language, not just English.
